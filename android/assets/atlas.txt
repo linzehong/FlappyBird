@@ -1,0 +1,214 @@
+atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background1
+  rotate: false
+  xy: 2, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+background2
+  rotate: false
+  xy: 2, 516
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+bangdan
+  rotate: false
+  xy: 2, 1352
+  size: 226, 114
+  orig: 226, 114
+  offset: 0, 0
+  index: -1
+bird/BBird1
+  rotate: false
+  xy: 254, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/BBird2
+  rotate: false
+  xy: 218, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/BBird3
+  rotate: false
+  xy: 38, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/RBird1
+  rotate: false
+  xy: 2, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/RBird2
+  rotate: false
+  xy: 110, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/RBird3
+  rotate: false
+  xy: 146, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/YBird1
+  rotate: false
+  xy: 74, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/YBird2
+  rotate: false
+  xy: 182, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird/YBird3
+  rotate: false
+  xy: 290, 1838
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 2, 1468
+  size: 335, 112
+  orig: 335, 112
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 117, 1582
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 2, 1682
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+conduit/conduitA1
+  rotate: false
+  xy: 164, 1030
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+conduit/conduitA2
+  rotate: false
+  xy: 110, 1030
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+conduit/conduitB1
+  rotate: false
+  xy: 2, 1030
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+conduit/conduitB2
+  rotate: false
+  xy: 56, 1030
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+confirm
+  rotate: false
+  xy: 2, 1582
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+game
+  rotate: false
+  xy: 223, 1582
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+gold/coin1
+  rotate: false
+  xy: 274, 1742
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+gold/coin2
+  rotate: false
+  xy: 228, 1742
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+gold/coin3
+  rotate: false
+  xy: 2, 1792
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+gold/coin4
+  rotate: false
+  xy: 182, 1742
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+hint1
+  rotate: false
+  xy: 108, 1682
+  size: 184, 50
+  orig: 184, 50
+  offset: 0, 0
+  index: -1
+hint2
+  rotate: false
+  xy: 48, 1792
+  size: 192, 42
+  orig: 192, 42
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 1742
+  size: 178, 48
+  orig: 178, 48
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 242, 1792
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+new
+  rotate: false
+  xy: 2, 1864
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
